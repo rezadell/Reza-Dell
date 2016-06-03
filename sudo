@@ -1,0 +1,4 @@
+sudo apt-get update
+sudo apt-get upgrate
+sudo configure -adpkg
+sudo apt-get update;sudo apt-get upgrate-y--force-yes;sudo apt-get dist upgrate-y--force-yes;sudo apt-get instal
